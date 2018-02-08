@@ -1,0 +1,15 @@
+
+(unity-control-center:3019): Gtk-CRITICAL **: gtk_notebook_set_current_page: assertion 'GTK_IS_NOTEBOOK (notebook)' failed
+
+(gkbd-keyboard-display:3041): Gtk-CRITICAL **: gtk_widget_set_allocation: assertion '_gtk_widget_get_visible (widget) || _gtk_widget_is_toplevel (widget)' failed
+
+(gkbd-keyboard-display:3037): Gtk-CRITICAL **: gtk_widget_set_allocation: assertion '_gtk_widget_get_visible (widget) || _gtk_widget_is_toplevel (widget)' failed
+
+(gkbd-keyboard-display:3039): Gtk-CRITICAL **: gtk_widget_set_allocation: assertion '_gtk_widget_get_visible (widget) || _gtk_widget_is_toplevel (widget)' failed
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+
+(gkbd-keyboard-display:3039): GLib-CRITICAL **: Source ID 26 was not found when attempting to remove it
+
+(gkbd-keyboard-display:3041): GLib-CRITICAL **: Source ID 28 was not found when attempting to remove it

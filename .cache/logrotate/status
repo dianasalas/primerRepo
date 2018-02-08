@@ -1,0 +1,15 @@
+logrotate state -- version 2
+"/home/dsalas/.cache/upstart/unity7.log" 2018-2-8-7:18:21
+"/home/dsalas/.cache/upstart/window-stack-bridge.log" 2018-2-8-7:18:21
+"/home/dsalas/.cache/upstart/ssh-agent.log" 2018-2-8-7:18:21
+"/home/dsalas/.cache/upstart/gnome-keyring-ssh.log" 2018-2-8-7:18:21
+"/home/dsalas/.cache/upstart/upstart-event-bridge.log" 2018-2-8-7:18:21
+"/home/dsalas/.cache/upstart/hud.log" 2018-2-8-7:18:21
+"/home/dsalas/.cache/upstart/gpg-agent.log" 2018-2-8-7:18:21
+"/home/dsalas/.cache/upstart/indicator-keyboard.log" 2018-2-8-7:0:0
+"/home/dsalas/.cache/upstart/unity-panel-service.log" 2018-2-8-7:18:21
+"/home/dsalas/.cache/upstart/dbus.log" 2018-2-8-7:18:21
+"/home/dsalas/.cache/upstart/unity-settings-daemon.log" 2018-2-8-7:18:21
+"/home/dsalas/.cache/upstart/indicator-sound.log" 2018-2-8-7:18:21
+"/home/dsalas/.cache/upstart/update-notifier-release.log" 2018-2-8-7:0:0
+"/home/dsalas/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_compiz.1000.crash.log" 2018-2-8-7:0:0

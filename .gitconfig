@@ -1,0 +1,7 @@
+[user]
+	email = dia_laurita@hotmail.com
+	name = dianasalas
+[push]
+	default = simple
+[color]
+	ui = true
